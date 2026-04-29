@@ -6,6 +6,9 @@ linkTitle: "Pilot 3"
 weight: 30
 status: "New"
 draft: false
+lastmod: 2026-04-29T13:33:55+02:00
+last_editor: Erik Hagen
+
 ---
 
 *English translation TBD.*
