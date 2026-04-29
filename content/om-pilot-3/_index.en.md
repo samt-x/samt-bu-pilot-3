@@ -6,6 +6,6 @@ weight: 10
 lastmod: 2026-04-29T22:16:23+02:00
 last_editor: Erik Hagen
 
-draft: true
+draft: false
 ---
 *English translation TBD.*
