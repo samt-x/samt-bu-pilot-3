@@ -4,9 +4,8 @@ id: 6ee13a38-af02-466c-b135-95df73be2cd4
 title: Pilot 3 -  Flytting mellom kommuner
 weight: 30
 status: Ny
-draft: false
 lastmod: 2026-04-29T22:54:57+02:00
 last_editor: Erik Hagen
 
 ---
-TBD.
+Arbeidet med denne piloten er under oppstart. Mer informasjon kommer snart.
