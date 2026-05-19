@@ -7,5 +7,4 @@ lastmod: 2026-04-29T13:33:55+02:00
 last_editor: Erik Hagen
 
 ---
-
-TBD.
+Denne piloten adresserer case som beskrevet under [https://docs.samt-bu.no/behov/use-cases/04-flytting-elever/.](casex)
