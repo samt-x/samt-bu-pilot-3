@@ -8,4 +8,4 @@ last_editor: Erik Hagen
 
 draft: false
 ---
-*English translation TBD.*
+This pilot addresses [case 4 – Pupils moving](https://docs.samt-bu.no/en/behov/use-cases/04-flytting-elever/).

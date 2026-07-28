@@ -7,4 +7,4 @@ lastmod: 2026-05-19T11:27:52+02:00
 last_editor: Erik Hagen
 
 ---
-Denne piloten adresserer case som beskrevet under [https://docs.samt-bu.no/behov/use-cases/04-flytting-elever/.](casex)
+Denne piloten adresserer [case 4 – Flytting av elever](https://docs.samt-bu.no/behov/use-cases/04-flytting-elever/).
