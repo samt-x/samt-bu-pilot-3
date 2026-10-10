@@ -6,7 +6,7 @@ linkTitle: "Pilot 3 - Moving between municipalities"
 weight: 30
 status: "New"
 draft: false
-lastmod: 2026-07-31T09:59:50+02:00
+lastmod: 2026-10-10T15:59:08+02:00
 last_editor: Erik Hagen
 
 ---
