@@ -3,6 +3,9 @@ id: 90683b51-3a3e-406f-ac45-1046600a6787
 title: "Oppgaver og framdrift"
 linkTitle: "Oppgaver og framdrift"
 weight: 90
+lastmod: 2026-11-02T00:12:34+01:00
+last_editor: Erik Hagen
+
 ---
 
 Oppgavene i pilot 3 ligger som issues i [samt-bu-pilot-3](https://github.com/samt-x/samt-bu-pilot-3/issues) og på brettet [SAMT-BU Pilot 3 – Flytting av barn og unge i skoleåret](https://github.com/orgs/samt-x/projects/4) (Project 4). Denne siden viser hvor arbeidet står.

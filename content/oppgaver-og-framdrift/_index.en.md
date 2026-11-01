@@ -3,6 +3,9 @@ id: 90683b51-3a3e-406f-ac45-1046600a6787
 title: "Tasks and progress"
 linkTitle: "Tasks and progress"
 weight: 90
+lastmod: 2026-11-02T00:12:34+01:00
+last_editor: Erik Hagen
+
 ---
 
 The tasks of pilot 3 are issues in [samt-bu-pilot-3](https://github.com/samt-x/samt-bu-pilot-3/issues) and on the board [SAMT-BU Pilot 3 – Flytting av barn og unge i skoleåret](https://github.com/orgs/samt-x/projects/4) (Project 4). This page shows where the work stands.
