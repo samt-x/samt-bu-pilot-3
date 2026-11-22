@@ -1,4 +1,5 @@
 ---
+id: 1a443737-fcd8-44a5-9199-ced857bac32a
 title: "Brukstilfeller og brukerbehov"
 linkTitle: "Brukstilfeller og brukerbehov"
 weight: 20

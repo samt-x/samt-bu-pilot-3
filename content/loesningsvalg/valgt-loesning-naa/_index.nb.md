@@ -1,4 +1,5 @@
 ---
+id: eba7345b-b839-4551-bdc5-32a2ea18e17e
 title: "Valgt løsning nå"
 linkTitle: "Valgt løsning nå"
 weight: 30

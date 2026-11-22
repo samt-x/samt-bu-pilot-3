@@ -1,4 +1,5 @@
 ---
+id: eba7345b-b839-4551-bdc5-32a2ea18e17e
 title: "Chosen solution now"
 linkTitle: "Chosen solution now"
 weight: 30
