@@ -3,6 +3,8 @@ id: 0a7d8adc-08fa-40c4-979b-df09da022e15
 title: "Veikart"
 linkTitle: "Veikart"
 weight: 70
+lastmod: 2026-11-22T23:33:09+01:00
+last_editor: Erik Hagen
 
 ---
 

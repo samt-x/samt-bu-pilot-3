@@ -3,6 +3,8 @@ id: b32f1c90-a9fa-4f11-8221-38584e50b2ac
 title: "Alternative løsninger"
 linkTitle: "Alternative løsninger"
 weight: 10
+lastmod: 2026-11-22T23:33:09+01:00
+last_editor: Erik Hagen
 
 ---
 Workshopene med Oslo og Nittedal ga fire spor som kunne utforskes videre. Sporene ble vist på demoen 4. september 2026. Pilotgruppa vurderte dem deretter i et møte og la fram vurderingen på demoen 16. oktober.

@@ -3,6 +3,8 @@ id: 24758ad6-7623-4565-bcfb-2b1426d9c4c8
 title: "Nåsituasjon"
 linkTitle: "Nåsituasjon"
 weight: 30
+lastmod: 2026-11-22T23:33:09+01:00
+last_editor: Erik Hagen
 
 ---
 Hvordan kommunene håndterer at en elev flytter i skoleåret i dag, slik det kom fram i workshopene med Oslo og Nittedal i august 2026.

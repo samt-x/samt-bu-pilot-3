@@ -3,6 +3,8 @@ id: d6ae7205-9c7f-451c-b8d1-2d4c9c378019
 title: "Legal matters"
 linkTitle: "Legal matters"
 weight: 60
+lastmod: 2026-11-22T23:33:09+01:00
+last_editor: Erik Hagen
 
 ---
 

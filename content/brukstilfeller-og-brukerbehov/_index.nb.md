@@ -3,6 +3,8 @@ id: 1a443737-fcd8-44a5-9199-ced857bac32a
 title: "Brukstilfeller og brukerbehov"
 linkTitle: "Brukstilfeller og brukerbehov"
 weight: 20
+lastmod: 2026-11-22T23:33:09+01:00
+last_editor: Erik Hagen
 
 ---
 Hvem som er involvert når en elev flytter i skoleåret, hvilket brukstilfelle piloten har brukt, og hva de ulike aktørene trenger.

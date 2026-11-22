@@ -3,6 +3,8 @@ id: b32f1c90-a9fa-4f11-8221-38584e50b2ac
 title: "Alternative solutions"
 linkTitle: "Alternative solutions"
 weight: 10
+lastmod: 2026-11-22T23:33:09+01:00
+last_editor: Erik Hagen
 
 ---
 The workshops with Oslo and Nittedal produced four tracks that could be explored further. The tracks were shown at the demo on 4 September 2026. The pilot group then assessed them in a meeting and presented the assessment at the demo on 16 October.

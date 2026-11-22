@@ -3,6 +3,8 @@ id: 24758ad6-7623-4565-bcfb-2b1426d9c4c8
 title: "Current situation"
 linkTitle: "Current situation"
 weight: 30
+lastmod: 2026-11-22T23:33:09+01:00
+last_editor: Erik Hagen
 
 ---
 How municipalities handle a pupil moving during the school year today, as it emerged in the workshops with Oslo and Nittedal in August 2026.

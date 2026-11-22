@@ -3,6 +3,8 @@ id: 1a443737-fcd8-44a5-9199-ced857bac32a
 title: "Use cases and user needs"
 linkTitle: "Use cases and user needs"
 weight: 20
+lastmod: 2026-11-22T23:33:09+01:00
+last_editor: Erik Hagen
 
 ---
 Who is involved when a pupil moves during the school year, which use case the pilot has used, and what the different actors need.
