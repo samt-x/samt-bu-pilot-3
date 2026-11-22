@@ -6,105 +6,43 @@ weight: 10
 lastmod: 2026-11-20T02:52:29+01:00
 last_editor: Erik Hagen
 
-draft: false
 ---
-## INTRODUCTION
+## Need
 
-The purpose of SAMT-BU is to establish a common foundation for collaboration and knowledge about data-centric service development and seamless user journeys across administrative levels and sectors, piloted in the domain of children and young people – from kindergarten to higher education. Through practical experimentation and competence building, the project shall lay the groundwork for the common foundation to be mature and well known, so that it is used and built upon, in other domains as well.
+Pilot 3 takes as its starting point [case 4 – Pupils moving between municipalities and county authorities during the school year](/en/behov/use-cases/04-flytting-elever/).
 
-One of the project's most central deliverables is to provide MVPs and piloting of information models and services. The project also aims to take an agile approach to its work, based on curiosity and learning through experimentation in short iterations, so that we can quickly demonstrate real value and also quickly discover what does not work (fail fast). We will do this through pilot projects covering prioritised use cases.
+When a pupil moves to a new municipality or county during the school year, the new school quickly needs information about the pupil. It needs this to give a correct and adapted education from the first school day. Today this is handled differently from one municipality to the next, with a lot of manual work and varying routines. The case is particularly interesting because it covers both information that can be transferred without further ado and information that requires consent from the parents. It also covers both structured data in school administration systems and documents in case and archive systems.
 
-This document describes the plan for carrying out pilot 3, moving during the school year. Although the pilot is described here as a phase-driven process, we assume that we will work iteratively, with individual phases repeated as needed.
+Who is affected and what they need is described under [Use cases and user needs](/en/pilotering/pilot-3/brukstilfeller-og-brukerbehov/), and how the move is handled today under [Current situation](/en/pilotering/pilot-3/naasituasjon/).
 
-## SCOPE AND DELIMITATION
+## Objective
 
-### Background
+Necessary information about a pupil shall follow the pupil digitally and automatically when the pupil moves between municipalities and county authorities during the school year. This shall ensure continuity in education, especially for vulnerable children, and reduce the time from moving in until the child has an adapted offer at the new school.
 
-The work takes as its starting point [case 4 – Pupils moving between municipalities/county authorities during the school year](https://docs.samt-bu.no/en/behov/use-cases/04-flytting-elever/).
+The pilot also looks at how the workload for the school staff involved in the move can be reduced.
 
-### Objective of the pilot
+## Scope and delimitation
 
-The goal is to ensure that the necessary information about a pupil follows the pupil digitally and automatically when moving between municipalities and county authorities during the school year. This shall ensure continuity in schooling, especially for vulnerable children, and reduce the time from moving in until the child has an adapted offer at the new school.
+Municipalities handle moves very differently. The pilot therefore started by mapping the current situation in two municipalities, before the work was detailed further. The plan was to examine:
 
-### Actors
+- a description of current routines (AS-IS)
+- a dream journey
+- two or three solution scenarios, with reuse or renewal
 
-- Pupil/parents: Move and register the change of address in the new municipality/county authority.
-- School administration officer (municipality/county being left): Responsible for closing the pupil relationship and making documentation available.
-- School leader/teacher (receiving municipality/county): Receives the pupil and needs rapid insight into the pupil's history and needs.
-- Line-of-business systems (e.g. Vigilo, Visma Flyt Skole, IST): The systems that shall exchange the data.
-- The National Population Register (FREG): The source that triggers the moving event.
+The first phase looked only at pupils in primary and lower secondary school, and at the process that applies to most pupils. Special cases found along the way, for example moves where the child welfare service is involved, have been noted for later follow-up.
 
-### Deliverables of the pilot
+The mapping produced four possible tracks. The pilot chose to go further with one of them: reviewing the documents in the pupil file before they are sent to the new school, possibly supported by an AI model. See [Choice of solution](/en/pilotering/pilot-3/loesningsvalg/).
 
-Initial conversations with various municipalities suggest that there are large differences in how this is handled today. We therefore want to carry out an as-is mapping in a couple of municipalities before detailing the work further.
+## Participants
 
-### The pilot will examine:
+| Name | Role | Organisation |
+|---|---|---|
+| Morten Hoff | Sub-project manager | KS Digital |
+| Håkon Søgnen | Solution architect | Hired by KS Digital |
+| Lotte O. Sørensen | Lawyer | KS Digital |
+| Cath Holten | Architect | Digdir |
+| Anamarija Carotta | Workshop facilitator | Hired by KS Digital |
 
-- As-is description of current routines.
-- Dream journey
-- Two or three solution scenarios (reuse/renewal)
+Support resources: Torbjørn Moen (execution) and Pål Asle Reiersgaard (technical), both KS Digital.
 
-Carrying out the pilot shall also form the basis for updating the project's "playbook" for running this type of project.
-
-## STAFFING
-
-### Pilot 3: Moving during the school year
-
-- Morten Hoff, Sub-project manager, KS Digital
-- Håkon Søgnen, Solution architect, KS Digital (contractor)
-- Lotte Sørensen, Lawyer, KS Digital
-- Cath Holten, Architect, Digdir
-- Anamarija Carotta, Facilitator, KS Digital (contractor)
-- Resources from the City of Oslo
-- Resources from Nittedal municipality
-
-These are the resources identified so far – more may be needed as the pilot takes shape.
-
-The source for project resources will at any time be the project's overview of contact persons (link to the Digdir SharePoint page containing: Kontaktinformasjon SAMT BU.xlsx).
-
-### Support resources
-
-Pål Reiersgaard, Architect, KS Digital\
-Torbjørn Moen, Business developer, KS Digital
-
-## EXECUTION
-
-### Duration of the pilot
-
-The pilot runs from 01.07.2026 to 30 November 2026.
-
-### Work packages and tasks
-
-The following work packages have been defined:
-
-- As-is descriptions
-- Dream journey
-- Solution scenarios
-- Clarification of further work
-
-### Key milestones
-
-The pilot has the following key milestones:
-
-- When the as-is descriptions are available
-- When the dream journey is available
-- When the solution scenarios are available
-
-### Practical execution
-
-The SAMT-BU project has provided direction on the collaboration arena, the choice of task management system and the methodology.
-
-- The pilot is carried out iteratively according to agile principles, in sprints of two or three weeks.
-- Each sprint shall start with a planning meeting and end with a demo.
-- Running a joint demo for all pilots under SAMT-BU will be considered.
-- Initially it is desirable to hold stand-ups for the whole pilot together every other day, but in time it may be sufficient to coordinate the work within each work package.
-- At least one retrospective should be held during the pilot period.
-- A dedicated GitHub solution is set up for the project and shall be used. The pilot's tasks are followed up as issues in [samt-bu-pilot-3](https://github.com/samt-x/samt-bu-pilot-3/issues).
-
-## OVERALL PLAN
-
-We will return to this.
-
-## BENEFIT POTENTIAL
-
-Part of the work on this pilot is to look at possible benefits of such a solution/future state. Benefits will be listed here once they have been identified.
+From the City of Oslo, school administration staff took part. From Nittedal municipality, school administration staff and teachers from primary and lower secondary school took part.
